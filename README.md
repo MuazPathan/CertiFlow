@@ -30,7 +30,7 @@ A browser-based tool for generating personalised certificates from a template im
 
 ```bash
 git clone https://github.com/MuazPathan/CertiFlow.git
-cd WiMailer
+cd CertiFlow
 npm install
 ```
 
